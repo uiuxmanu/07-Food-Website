@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    height: 50px;
+    width: 70px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+h5 {
+    font-weight: 700;
+}
+
+.head {
+    padding-top: 40%;
+}
+
+.headline {
+    padding-top: 5%;
+    padding: 5%;
+}
+
+.plate-image {
+    padding-top: 20%;
+    width: 100%;
+    height: 100%;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: #000;
+
+}
+
+.nav-link:hover {
+    color: #ff9f0d;
+
+}
+
+button {
+    background-color: #ff9f0d !important;
+    border-radius: 20px !important;
+    color: #fff !important;
+    height: 50px !important;
+    width: 150px !important;
+}
+
+button:hover {
+    background-color: #ff9f0d;
+    box-shadow: 0px 15px 20px rgba(248, 179, 31, 0.4);
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+.icon {
+    font-size: 1.5rem;
+
+}
+
+.fttr {
+    padding-top: 5%;
+}
+
+.h6 {
+    text-align: center;
+}
+
+.social-icon {
+    font-size: 2rem;
+}
+
+.footer-copy {
+    text-align: right;
+    font-size: 1rem;
+}
+
+.time {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.time-box {
+    background-color: rgb(190, 29, 29);
+}
+
+.card {
+    height: 150px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 50px 10px;
+    border-color: #fff;
+    box-shadow: 0 5px 25px 0 rgba(75, 75, 75, 0.2), 0 0px 0px 0 rgba(54, 54, 54, 0.19);
+}
+
+.icon-t {
+    font-size: 2rem;
+    color: #ff9f0d;
+}
+
+#tp {
+    font-weight: 600;
+    color: rgb(122, 122, 122);
+}
+
+.Food-pd {
+    width: 100%;
+    height: 100%;
+}
+
+#ab {
+    color: #ff9f0d;
+}
+
+.play-btn {
+    color: #3b3b3b;
+    font-size: 3rem;
+}
+
+#tpp {
+    padding-top: 20px;
+    font-weight: 600;
+    color: rgb(122, 122, 122);
+}
+
+.headline {
+    text-align: center;
+}
+
+.card-time {
+    height: 100% !important;
+}
+
+#icon-d {
+    font-size: 3rem;
+    color: #ff9f0d;
+}
+
+.card-menu {
+    border-radius: 10% 20%;
+    height: 100%;
+}
+
+#card-image {
+    border-radius: 10%;
+}
+
+.card-explore {
+    padding: 10px;
+    border-radius: 20% 5%;
+    width: 100%;
+    box-shadow: 0 5px 25px 0 rgba(75, 75, 75, 0.2), 0 0px 0px 0 rgba(54, 54, 54, 0.19);
+}
+
+#explore-image {
+    height: 100%;
+    width: 100%;
+    border-radius: 20% 5%;
+}
+
+.explore-text {
+    padding-top: 10%;
+}
+
+.test {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.testimonial {
+    width: 800px;
+    height: 70%;
+    border-radius: 5% 5%;
+    box-shadow: 0 5px 25px 0 rgba(75, 75, 75, 0.2), 0 0px 0px 0 rgba(54, 54, 54, 0.19);
+}
+
+#testimonial {
+
+    padding-left: 50%;
+}
